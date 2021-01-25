@@ -9,7 +9,7 @@ namespace KampIntro
             string kategoriEtiketi = "Kategori";
             int orenciSayisi = 32000;
             double faizOrani = 1.45;
-            bool sistemeGirisYapmisMi = true;
+            bool sistemeGirisYapmisMi = true; 
             double dolarDun = 7.35;
             double dolarBugun = 7.45;
 

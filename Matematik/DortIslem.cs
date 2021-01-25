@@ -1,6 +1,8 @@
 ﻿using System;
+#pragma warning disable IDE0005 // Using-Direktive ist unnötig.
 using System.Collections.Generic;
 using System.Text;
+#pragma warning restore IDE0005 // Using-Direktive ist unnötig.
 
 namespace Matematik
 {

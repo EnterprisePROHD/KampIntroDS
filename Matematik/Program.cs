@@ -1,8 +1,10 @@
-﻿using System;
+﻿#pragma warning disable IDE0005 // Using-Direktive ist unnötig.
+using System;
+#pragma warning restore IDE0005 // Using-Direktive ist unnötig.
 
 namespace Matematik
 {
-    class Program
+    public class Program
     {
         public static void Main(string[] args)
         {
